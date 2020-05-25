@@ -1,0 +1,1 @@
+This is a read me file for a complitely new repository on github, kak ya zaebalsya
