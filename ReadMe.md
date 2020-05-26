@@ -1,5 +1,3 @@
-Fixed a repo for project
-
 
 // This is how to do simplest backend for your new .html page
 
@@ -28,3 +26,8 @@ Fixed a repo for project
 
 
 """
+
+// Don't forget to let django know you have new folder for templates
+
+// 'DIRS': [os.path.join(BASE_DIR, 'templates')],
+        
