@@ -31,3 +31,10 @@
 
 // 'DIRS': [os.path.join(BASE_DIR, 'templates')],
         
+
+
+
+
+        <!--  Как прикрутить Header, Footer and Navigation   -->
+В Templates запихнуть folder with header, footer, navigation etc
+В {% %} прописать include 'folder_with_header_etc/filename.html'
