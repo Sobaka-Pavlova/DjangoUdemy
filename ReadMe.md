@@ -44,3 +44,8 @@
 
         <!-- Listings App and Realtors App Comments by Brad -->
 Listings are for multiple/single and search listing(s) page, realtors are for the model as there are no templates or views for realtors. It's for adding realtors through admin and forming relationships between realtors and listings   
+
+
+
+// This is how to display a model with an example of Brad name being represented in a listings.html file
+
