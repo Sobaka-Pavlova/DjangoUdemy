@@ -48,4 +48,4 @@ Listings are for multiple/single and search listing(s) page, realtors are for th
 
 
 // This is how to display a model with an example of Brad name being represented in a listings.html file
-
+// For top raw see commit "Example of how to pass in a dict variable to views"
