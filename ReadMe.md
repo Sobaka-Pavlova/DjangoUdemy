@@ -53,3 +53,7 @@ Listings are for multiple/single and search listing(s) page, realtors are for th
 
 //"git commit -m "This is how to start adding dynamic values from database"
 // listings.html {{ }} because you have for listing in listings you can access parts of the database through .var
+
+
+
+// If you put values in search they will apear in url as get request values
